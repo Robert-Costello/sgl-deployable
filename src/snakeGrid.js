@@ -21,6 +21,7 @@ function make2DArray(cols, rows) {
 
 function setup() {
   createCanvas(600, 600)
+
   s = new snake()
 
   frameRate(10)
